@@ -64,7 +64,7 @@ namespace SurveyApp
                             writer.WriteLine($" - {answer}");
                         }
                         writer.WriteLine();
-                    }
+                    }    
                 }
             }
         }
